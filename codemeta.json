@@ -58,6 +58,13 @@
             "givenName": "Ian",
             "familyName": "Foster",
             "email": "foster@anl.gov"
+        },
+        {
+            "@id":"https://orcid.org/0000-0003-3811-5949",
+            "@type": "Person",
+            "givenName": "Benjamin",
+            "familyName": "Galewsky",
+            "email": "bengal1@illinois.edu"
         }
     ],
     "softwareRequirements": [
